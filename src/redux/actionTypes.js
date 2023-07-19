@@ -1,0 +1,5 @@
+const ADD_TODO = "ADD_TODO";
+
+const GET_LIST_TODO = "GET_LIST_TODO";
+
+export { ADD_TODO, GET_LIST_TODO };
